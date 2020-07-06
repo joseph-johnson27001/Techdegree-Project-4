@@ -19,25 +19,25 @@
     &.error {
       background-color: $color-theme9;
         &:hover {
-        background-color: lighten($color-theme9, 10%)
+        background-color: lighten($color-theme9, 10%);
       }
     }
     &.info {
       background-color: $color-theme1;
         &:hover {
-        background-color: lighten($color-theme1, 10%)
+        background-color: lighten($color-theme1, 10%);
       }
     }
     &.success {
         background-color: $color-theme10;
         &:hover {
-        background-color: lighten($color-theme10, 10%)
+        background-color: lighten($color-theme10, 10%);
       }
     }
     &.warning {
       background-color: $color-theme2;
       &:hover {
-      background-color: lighten($color-theme2, 10%)
+      background-color: lighten($color-theme2, 10%);
     }
   }
 }

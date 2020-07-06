@@ -4,11 +4,11 @@
 @media (min-width: $media-q-min) {
 
 .container {
-  @include cont-display(1400px)
+  @include cont-display(1400px);
 }
 
 .centered {
-  @include cont-display
+  @include cont-display;
 }
 
 .row {
