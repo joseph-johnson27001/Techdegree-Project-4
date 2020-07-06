@@ -21,21 +21,23 @@ $color-secondary: #777;
 
 //THEME COLORS
   $theme-colors: (
-     '1': #927bc1,
-     '2': #fd7856,
-     '3': #deb2ee,
-     '4': #7ee6fd,
-     '5': #88d9a0,
-     '6': #4da2bb,
-     '7': #ec9fa3,
-     '8': #fd9f85,
-     '9': #e4757a,
-    '10': #63cc82,
-    '11': #51ddfc,
-    '12': #80e8d1,
+     '1': $color-theme1,
+     '2': $color-theme2,
+     '3': $color-theme3,
+     '4': $color-theme4,
+     '5': $color-theme5,
+     '6': $color-theme6,
+     '7': $color-theme7,
+     '8': $color-theme8,
+     '9': $color-theme9,
+    '10': $color-theme10,
+    '11': $color-theme11,
+    '12': $color-theme12,
   );
 
+//MEDIA QUERIES
 
+$media-q-min: 768px;
 
 
 
